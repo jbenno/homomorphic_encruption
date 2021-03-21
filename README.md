@@ -20,6 +20,6 @@ Based on Fan, Junfeng, and Frederik Vercauteren. ‘Somewhat Practical Fully Hom
 - Jupyter Notebook [HE01.ipynb](/code/HE01.ipynb)
 
 #### Geo-fencing demo in C#
-This demo was done by [Dominik](https://github.com/DominikLindemann), Axel, and myself.
+This demo was done by [Dominik](https://github.com/DominikLindemann), Axel, and myself.  
 [Homomorphic Iota](/code/homomorphic_iota)
 

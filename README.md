@@ -23,3 +23,7 @@ Based on Fan, Junfeng, and Frederik Vercauteren. ‘Somewhat Practical Fully Hom
 This demo was done by [Dominik](https://github.com/DominikLindemann), Axel, and myself.  
 [Homomorphic Iota](/code/homomorphic_iota)
 
+
+## Literature
+[Literature.md](/files/Literature.md) (will be updated continuously)
+
